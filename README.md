@@ -1,19 +1,22 @@
-# web-tools 工具站
-
-## 工具列表
-+ [2025年最新房贷计算器](https://www.xiaoqufengdi.top)
->2025年5月最新房贷计算器，支持商业贷款、公积金贷款、组合贷款计算，提供等额本息/等额本金两种方式对比，实时计算月供、总利息及还款计划表
-  + <img src="./images/mortage.png" alt="房贷计算器" height="200" />
-
-+ [极简二维码生成器-QR Code Generator](https://qrcode.xiaoqufengdi.top/)
->免费极简二维码生成器,可添加logo图片,自定二维码大小和颜色
-  + <img src="./images/qrcode.png" alt="二维码生成器" height="200" />
+**English** | [中文](./README.zh.md)
 
 
-+ [全球汇率换算器-Currency Converter](https://exchange.xiaoqufengdi.top/)
->全球所有国家货币的实时换算，有助于支持您掌握汇率变化趋势。  
-    + <img src="./images/exchange.png" alt="全球汇率换算器" height="200" />
+# Web-Tools Hub
+>Tools List
+## Latest 2025 Mortgage Calculator
+>The most up-to-date mortgage calculator for May 2025, supporting commercial loans,公积金 loans, and combined loan calculations. Provides a comparison between equal principal & interest and equal principal repayment methods, with real-time calculations of monthly payments, total interest, and repayment schedules.
 
-+ [随机抽签点名工具](https://random.xiaoqufengdi.top/)
->一款公平公正的随机抽签点名工具，帮助团队快速随机选择成员，支持名单导入和抽取设置，操作简单高效。
-      + <img src="./images/random.png" alt="随机抽签点名工具" height="200" />
+  + <img src="./images/mortage.png" alt="Mortgage Calculator" height="200" />
+
+## Minimalist QR Code Generator
+>A free, simple QR code generator that allows you to add logo images, customize QR code size and color.
+  + <img src="./images/qrcode.png" alt="QR Code Generator" height="200" />
+
+## Global Currency Converter
+>Real-time conversion of all global currencies, helping you stay informed about exchange rate trends.
+    + <img src="./images/exchange.png" alt="Currency Converter" height="200" />
+
+## Random Draw & Name Picker Tool
+>A fair and impartial random draw and name picker tool designed to help teams quickly select members at random. Supports list import and draw settings, with a simple and efficient operation.
+      + <img src="./images/random.png" alt="Name Picker Tool" height="200" />
+
