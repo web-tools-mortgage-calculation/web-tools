@@ -18,5 +18,5 @@
 
 ## Random Draw & Name Picker Tool
 >A fair and impartial random draw and name picker tool designed to help teams quickly select members at random. Supports list import and draw settings, with a simple and efficient operation.
-      + <img src="./images/random.png" alt="Name Picker Tool" height="200" />
+    + <img src="./images/random.png" alt="Name Picker Tool" height="200" />
 
