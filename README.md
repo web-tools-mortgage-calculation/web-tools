@@ -8,6 +8,12 @@
 
   + <img src="./images/mortage.png" alt="Mortgage Calculator" height="200" />
 
+## [2025 Latest Income Tax Calculator](https://tax.xiaoqufengdi.top/)
+>2025 Latest Income Tax Calculator - Quickly and accurately calculate personal income tax on salaries and year-end bonuses. Provides special additional deduction calculations and optimization suggestions to help you save tax reasonably.
+  
+  + <img src="./images/tax.png" alt="Income Tax Calculator" height="200" />
+
+
 ## Minimalist QR Code Generator
 >A free, simple QR code generator that allows you to add logo images, customize QR code size and color.
   + <img src="./images/qrcode.png" alt="QR Code Generator" height="200" />
