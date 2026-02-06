@@ -12,12 +12,6 @@
   + <img src="./images/car.png" alt="房贷计算器" height="200" />
 
 
-
-+ [2025最新个税计算器](https://tax.xiaoqufengdi.top/)
->2025最新个税计算器-快速准确计算工资、年终奖个人所得税，提供专项附加扣除计算和优化建议，助您合理节税
-  + <img src="./images/tax.png" alt="个税计算器" height="200" />
-
-
 + [2025最新个税计算器](https://tax.xiaoqufengdi.top/)
 >2025最新个税计算器-快速准确计算工资、年终奖个人所得税，提供三险一金、专项附加扣除计算和优化建议，助您合理节税
   + <img src="./images/tax.png" alt="个税计算器" height="200" />
