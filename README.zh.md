@@ -18,6 +18,10 @@
 + <img src="./images/tax.png" alt="个税计算器" height="200" />
 
 
++ [2025最新个税计算器](https://tax.xiaoqufengdi.top/)
+>2025最新个税计算器-快速准确计算工资、年终奖个人所得税，提供三险一金、专项附加扣除计算和优化建议，助您合理节税
+  + <img src="./images/tax.png" alt="个税计算器" height="200" />
+
 + [极简二维码生成器-QR Code Generator](https://qrcode.xiaoqufengdi.top/)
 >免费极简二维码生成器,可添加logo图片,自定二维码大小和颜色
   + <img src="./images/qrcode.png" alt="二维码生成器" height="200" />

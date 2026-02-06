@@ -10,21 +10,23 @@
 
 ## [Car Loan Calculator](https://car.xiaoqufengdi.top)
 >The car loan calculator is an intelligent online calculation tool specifically designed for auto consumers. It helps you quickly and accurately calculate repayment details under different loan schemes before purchasing a car on loan, enabling you to make the most informed financial decisions.
-  + <img src="./images/car.png" alt="Car Loan Calculator" height="200" />
-## [2025 Latest Personal Income Tax Calculator](https://tax.xiaoqufengdi.top/)
->2025 Latest Personal Income Tax Calculator
-The latest 2025 personal income tax calculator - quickly and accurately calculates salary and year-end bonus individual income tax, provides special additional deduction calculations and optimization suggestions to help you save taxes reasonably.
-  + <img src="./images/tax.png" alt="Tax Calculator" height="200" />
++ <img src="./images/car.png" alt="Car Loan Calculator" height="200" />
+
+## [2025 Latest Income Tax Calculator](https://tax.xiaoqufengdi.top/)
+>2025 Latest Income Tax Calculator - Quickly and accurately calculate personal income tax on salaries and year-end bonuses. Provides special additional deduction calculations and optimization suggestions to help you save tax reasonably.
+  
+  + <img src="./images/tax.png" alt="Income Tax Calculator" height="200" />
 
 ## [Minimalist QR Code Generator](https://qrcode.xiaoqufengdi.top/)
 >A free, simple QR code generator that allows you to add logo images, customize QR code size and color.
   + <img src="./images/qrcode.png" alt="QR Code Generator" height="200" />
 
-## G[lobal Currency Converter](https://exchange.xiaoqufengdi.top/)
+## [Global Currency Converter](https://exchange.xiaoqufengdi.top/)
 >Real-time conversion of all global currencies, helping you stay informed about exchange rate trends.
     + <img src="./images/exchange.png" alt="Currency Converter" height="200" />
 
 ## [Random Draw & Name Picker Tool](https://random.xiaoqufengdi.top/)
 >A fair and impartial random draw and name picker tool designed to help teams quickly select members at random. Supports list import and draw settings, with a simple and efficient operation.
-    + <img src="./images/random.png" alt="Name Picker Tool" height="200" />
+
+  + <img src="./images/random.png" alt="Name Picker Tool" height="200" />
 
